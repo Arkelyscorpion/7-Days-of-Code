@@ -1,0 +1,24 @@
+#include<stdio.h>
+int n;
+int find(int enter){
+    if(enter*2 >= n){
+        return enter;
+    }
+    else{
+        enter = enter*2;
+        return find(enter);
+    }
+}
+int main(){
+    int bac,result,enter=1;
+    scanf("%d",&n);
+    bac = find(enter);
+    if(bac != n){
+        result = n-bac;
+        printf("%d",1+result);
+    }
+    else{
+        printf("1");
+    }
+    return 0;
+}
