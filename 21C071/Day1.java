@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public final class Bacteria{
+public final class Day1{
     public static void main(String args[]){
         Scanner sc = new Scanner(System.in);
         int x = sc.nextInt();
