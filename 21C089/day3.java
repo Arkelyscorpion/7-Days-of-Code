@@ -6,7 +6,7 @@ public class day3 {
         int t = input.nextInt();
 
         while (t > 0) {
-            input.nextLine(); // Consume the empty line
+            input.nextLine();
 
             int xA = input.nextInt();
             int yA = input.nextInt();
