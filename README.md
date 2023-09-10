@@ -11,3 +11,5 @@ Since its day 1 , lets make it a bit easy :P
 ## Problem 5 : https://codeforces.com/problemset/problem/706/B
 
 ## Problem 6 : https://codeforces.com/problemset/problem/1650/B
+
+## Problem 7 : https://codeforces.com/problemset/problem/1800/A
